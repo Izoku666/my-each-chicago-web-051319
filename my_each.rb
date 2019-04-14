@@ -1,4 +1,4 @@
-def my_each(arr) do |i|
+def my_each(arr)
   # code here
   
 end
