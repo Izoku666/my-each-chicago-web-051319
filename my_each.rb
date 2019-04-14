@@ -6,4 +6,5 @@ def my_each(arr)
 
     index += 1
   end
+  return arr
 end
